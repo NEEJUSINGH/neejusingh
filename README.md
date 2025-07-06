@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Neeju Singh Banner" width="100%">
+  <img src="https://Black Green Bold Modern Welcome To Coding Class Google Classroom Header.png" alt="Neeju Singh Banner" width="100%">
 </p>
 
 <h2 align="center">Hi, I am Neeju — welcome to my corner of the internet</h2>
