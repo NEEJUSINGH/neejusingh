@@ -1,6 +1,7 @@
 # Hi, I am Neeju Singh
 
-Welcome to my corner of the internet — where **code**, **consciousness**, and **creativity** unfold together.
+<h2 align="center">Welcome to my corner of the internet</h2>
+<p align="center"><em>Where code, consciousness, and creativity unfold together</em></p>
 
 My current interests:
 - Artificial Intelligence and Machine Learning  
