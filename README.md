@@ -2,16 +2,12 @@
 
 Welcome to my corner of the internet — where **code**, **consciousness**, and **creativity** unfold together.
 
-I explore the intersections between:
-- Artificial Intelligence & Human Insight
-- Spiritual Practice & Mindful Technology
-- Practical Coding & Soulful Reflection
-
----
+I am currently exploring:
+- Artificial Intelligence and Machine Learning  
+- Technology tools that bridge AI and human presence  
+- Mind training through ancient spiritual practice
 
 ## My Digital Garden
-
-Here are some spaces I am cultivating:
 
 ### [Portfolio Website](https://neejusingh.github.io/)
 A showcase of my projects — from AI tools to educational apps, all rooted in thoughtful design.
