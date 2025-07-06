@@ -16,9 +16,7 @@
 ---
 ### **[My Portfolio](https://neejusingh.github.io/)** : *A showcase of my projects, from AI tools to educational apps.*
 
-Highlights
-
-**Projects**  
+**Current Projects**  
 - AI-Powered Student Success Predictor  
 - Study+ Android App — helping students focus with smart phone locking  
 - Interactive Learning Modules — for coding, game development, and more  
