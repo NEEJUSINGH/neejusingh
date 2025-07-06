@@ -2,14 +2,13 @@
   <img src="https://github.com/NEEJUSINGH/neejusingh/blob/96b8a62bb96e5715dd0faac635c204689e0c32b6/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
 
+**[Unfolding Consciousness](https://neejusingh.github.io/blog/)** — *An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.*
 
-### Checkout My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)
-
-<p><em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em></p>
-
+**[My Portfolio](https://neejusingh.github.io/)** — *A showcase of my projects — from AI tools to educational apps.*
 
 ---
-### My current interests
+
+### My Current Interests
 
 - Artificial Intelligence and Machine Learning  
 - Technology tools that bridge AI and human presence  
@@ -17,10 +16,7 @@
 
 ---
 
-**[My Portfolio](https://neejusingh.github.io/) :**  *A showcase of my projects — from AI tools to educational apps.*
-
-
-## Highlights
+### Highlights
 
 **Projects**  
 - AI-Powered Student Success Predictor  
@@ -35,7 +31,7 @@ Vipassana · Tibetan Buddhism · Human-Machine Synergy · Teaching Tech with Com
 
 ---
 
-## Connect With Me
+### Connect With Me
 
 **Email**: neejusingh977@gmail.com  
 **GitHub**: You can message me right here.  
