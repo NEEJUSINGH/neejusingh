@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://neeju.png" alt="Neeju Singh Banner" width="100%">
+  <img src="https://github.com/NEEJUSINGH/neejusingh/blob/aa1d4d4c3b9365f53a652c0bef3ffbb01ae92495/neeju.png" alt="Neeju Singh Banner" width="100%">
 </p>
 
 <h2 align="center">Hi, I am Neeju — welcome to my corner of the internet</h2>
