@@ -17,8 +17,8 @@
 
 ---
 
-### [My Portfolio](https://neejusingh.github.io/) 
-<em>: A showcase of my projects — from AI tools to educational apps</em>
+**[My Portfolio](https://neejusingh.github.io/)** — *A showcase of my projects — from AI tools to educational apps.*
+
 
 ## Highlights
 
