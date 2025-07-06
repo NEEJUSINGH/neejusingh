@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/NEEJUSINGH/neejusingh/blob/96b8a62bb96e5715dd0faac635c204689e0c32b6/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
----
+
+
 ### Checkout My Blog: [Unfolding – Consciousness](https://neejusingh.github.io/blog/)  
 An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.
 ---
