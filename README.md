@@ -2,9 +2,6 @@
   <img src="https://github.com/NEEJUSINGH/neejusingh/blob/96b8a62bb96e5715dd0faac635c204689e0c32b6/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
 
-<h2 align="center">Hi, I am Neeju — welcome to my corner of the internet</h2>
-<p align="center"><em>Where code, consciousness, and creativity unfold together</em></p>
-
 ---
 
 ### [My Portfolio](https://neejusingh.github.io/)  
