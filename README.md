@@ -4,7 +4,7 @@
 
 
 ### Checkout My Blog: [Unfolding – Consciousness](https://neejusingh.github.io/blog/)  
-**An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.**
+***An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.***
 ---
 ### My current interests
 
