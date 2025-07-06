@@ -12,8 +12,7 @@ An introspective space exploring mind, awareness, manifestation, and the deeper 
 - Technology tools that bridge AI and human presence  
 - Training the mind through ancient spiritual practices
 
-### [My Portfolio](https://neejusingh.github.io/)  
-A showcase of my projects — from AI tools to educational apps.
+### [My Portfolio](https://neejusingh.github.io/) ***A showcase of my projects — from AI tools to educational apps.***
 
 ---
 
