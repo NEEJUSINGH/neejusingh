@@ -3,9 +3,10 @@
 </p>
 
 
-### Checkout My Personal Blog: [Unfolding – Consciousness](https://neejusingh.github.io/blog/)
+### Checkout My Blog: [Unfolding – Consciousness](https://neejusingh.github.io/blog/)
 
-<sub>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</sub>
+<p><em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em></p>
+
 
 ---
 ### My current interests
