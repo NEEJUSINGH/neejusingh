@@ -1,14 +1,24 @@
-# Hi, I am Neeju Singh
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="Neeju Singh Banner" width="100%">
+</p>
+
+# Hi, I am Neeju Singh ### [Portfolio Website](https://neejusingh.github.io/)
+
 
 <h2 align="center">Welcome to my corner of the internet</h2>
 <p align="center"><em>Where code, consciousness, and creativity unfold together</em></p>
 
-My current interests:
+---
+
+### My current interests:
+
 - Artificial Intelligence and Machine Learning  
 - Technology tools that bridge AI and human presence  
-- Training Mind through ancient spiritual practices
+- Training the mind through ancient spiritual practices
 
-## My Digital Garden
+---
+
+## Checkout my ### [Blog: *Unfolding – Consciousness*](https://neejusingh.github.io/blog/)
 
 ### [Portfolio Website](https://neejusingh.github.io/)
 A showcase of my projects — from AI tools to educational apps, all rooted in thoughtful design.
@@ -33,12 +43,14 @@ Vipassana · Tibetan Buddhism · Human-Machine Synergy · Teaching Tech with Com
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
-Message me right here on GitHub  
+You can message me right here on GitHub.  
 Or explore more at [neejusingh.github.io](https://neejusingh.github.io)
 
 ---
 
-> _“The mind is everything. What you think, you become.”_  
-> — Buddha
+<blockquote>
+  <p><em>“The mind is everything. What you think, you become.”</em><br>
+  — Buddha</p>
+</blockquote>
