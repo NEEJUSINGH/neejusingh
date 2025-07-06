@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋🏽 Hi, I am Neeju Singh
 
-<!--
-**NEEJUSINGH/neejusingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the internet — where **code**, **consciousness**, and **creativity** unfold together.
 
-Here are some ideas to get you started:
+💫 I explore the intersections between:
+- 🧠 Artificial Intelligence & Human Insight
+- 🧘🏽‍♀️ Spiritual Practice & Mindful Technology
+- 💻 Practical Coding & Soulful Reflection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 My Digital Garden
+
+Here are some spaces I am cultivating:
+
+### 🔸 [📁 Portfolio Website](https://neejusingh.github.io/)
+A showcase of my projects — from AI tools to educational apps, all rooted in thoughtful design.
+
+### 🔸 [🌀 Blog: *Unfolding – Consciousness*](https://neejusingh.github.io/blog/)
+An introspective blog exploring mind, awareness, manifestation, and the deeper dimensions of being.
+
+---
+
+## ✨ Highlights
+
+🔧 **Projects**  
+- 🧩 AI-Powered Student Success Predictor  
+- ⏳ Study+ Android App – helping students focus with smart phone locking  
+- 🧠 Interactive Learning Modules – for coding, game development, and more  
+
+📚 **Tools I Use**  
+Python · Streamlit · Java · React Native · Firebase · Tableau · Power BI · Jekyll · Git · Linux
+
+🧘🏽 **Interests**  
+Vipassana · Tibetan Buddhism · Human-Machine Synergy · Teaching Tech with Compassion
+
+---
+
+## 🤝 Connect With Me
+
+📬 Message me right here on GitHub  
+🌱 Or explore more at [neejusingh.github.io](https://neejusingh.github.io)
+
+---
+
+> _“The mind is everything. What you think, you become.”_  
+> — Buddha
