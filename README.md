@@ -6,12 +6,9 @@
 
 
 [My Portfolio](https://neejusingh.github.io/) - A showcase of my projects — from AI tools to educational apps
-
-
-
 ---
 
-### My current interests:
+### My current interests are:
 
 - Artificial Intelligence and Machine Learning  
 - Technology tools that bridge AI and human presence  
@@ -20,13 +17,7 @@
 ---
 
 ## Checkout my Blog : [*Unfolding – Consciousness*](https://neejusingh.github.io/blog/)
-
-### [Portfolio Website](https://neejusingh.github.io/)
-, all rooted in thoughtful design.
-
-### [Blog: *Unfolding – Consciousness*](https://neejusingh.github.io/blog/)
 An introspective blog exploring mind, awareness, manifestation, and the deeper dimensions of being.
-
 ---
 
 ## Highlights
