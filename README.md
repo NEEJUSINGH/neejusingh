@@ -2,8 +2,8 @@
   <img src="https://github.com/NEEJUSINGH/neejusingh/blob/96b8a62bb96e5715dd0faac635c204689e0c32b6/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
 
-**Checkout My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)** — 
-<p>*An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.*</p>
+**Checkout My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)**
+<p>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</p>
 
 **[My Portfolio](https://neejusingh.github.io/)** : *A showcase of my projects, from AI tools to educational apps.*
 
