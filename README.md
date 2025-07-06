@@ -2,10 +2,10 @@
 
 Welcome to my corner of the internet — where **code**, **consciousness**, and **creativity** unfold together.
 
-I am currently exploring:
+My current interests:
 - Artificial Intelligence and Machine Learning  
 - Technology tools that bridge AI and human presence  
-- Mind training through ancient spiritual practice
+- Training Mind through ancient spiritual practices
 
 ## My Digital Garden
 
