@@ -2,7 +2,8 @@
   <img src="https://your-banner-image-url.com/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
 
-# Hi, I am Neeju Singh ### [Portfolio Website](https://neejusingh.github.io/)
+# Hi, I am Neeju Singh
+[My Portfolio](https://neejusingh.github.io/)
 
 
 <h2 align="center">Welcome to my corner of the internet</h2>
