@@ -19,7 +19,7 @@
 
 ---
 
-## Checkout my ### [Blog: *Unfolding – Consciousness*](https://neejusingh.github.io/blog/)
+## Checkout my [Blog: *Unfolding – Consciousness*](https://neejusingh.github.io/blog/)
 
 ### [Portfolio Website](https://neejusingh.github.io/)
 A showcase of my projects — from AI tools to educational apps, all rooted in thoughtful design.
