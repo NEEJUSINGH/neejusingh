@@ -5,7 +5,7 @@
 <p align="center"><em>Where code, consciousness, and creativity unfold together</em></p>
 
 
-[My Portfolio](https://neejusingh.github.io/)
+[My Portfolio](https://neejusingh.github.io/) - A showcase of my projects — from AI tools to educational apps
 
 
 
@@ -19,10 +19,10 @@
 
 ---
 
-## Checkout my Blog :[*Unfolding – Consciousness*](https://neejusingh.github.io/blog/)
+## Checkout my Blog : [*Unfolding – Consciousness*](https://neejusingh.github.io/blog/)
 
 ### [Portfolio Website](https://neejusingh.github.io/)
-A showcase of my projects — from AI tools to educational apps, all rooted in thoughtful design.
+, all rooted in thoughtful design.
 
 ### [Blog: *Unfolding – Consciousness*](https://neejusingh.github.io/blog/)
 An introspective blog exploring mind, awareness, manifestation, and the deeper dimensions of being.
