@@ -3,7 +3,7 @@
 </p>
 
 
-### Checkout My Blog: [Unfolding – Consciousness](https://neejusingh.github.io/blog/)
+### Checkout My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)
 
 <p><em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em></p>
 
@@ -17,7 +17,7 @@
 
 ---
 
-**[My Portfolio](https://neejusingh.github.io/)** — *A showcase of my projects — from AI tools to educational apps.*
+**[My Portfolio](https://neejusingh.github.io/) :**  *A showcase of my projects — from AI tools to educational apps.*
 
 
 ## Highlights
