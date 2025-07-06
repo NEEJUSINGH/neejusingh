@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://your-banner-image-url.com/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
+<h2 align="center"># Hi, I am Neeju Singh and Welcome to my corner of the internet</h2>
+<p align="center"><em>Where code, consciousness, and creativity unfold together</em></p>
 
-# Hi, I am Neeju Singh
+
 [My Portfolio](https://neejusingh.github.io/)
 
 
-<h2 align="center">Welcome to my corner of the internet</h2>
-<p align="center"><em>Where code, consciousness, and creativity unfold together</em></p>
 
 ---
 
