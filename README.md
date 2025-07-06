@@ -4,15 +4,15 @@
 
 
 ### Checkout My Blog: [Unfolding – Consciousness](https://neejusingh.github.io/blog/)  
-An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.
-
+**An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.**
+---
 ### My current interests
 
 - Artificial Intelligence and Machine Learning  
 - Technology tools that bridge AI and human presence  
 - Training the mind through ancient spiritual practices
 
-### [My Portfolio](https://neejusingh.github.io/) ***A showcase of my projects — from AI tools to educational apps.***
+### [My Portfolio](https://neejusingh.github.io/) ***: A showcase of my projects — from AI tools to educational apps.***
 
 ---
 
