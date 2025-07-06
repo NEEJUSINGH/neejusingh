@@ -36,9 +36,9 @@ Vipassana · Tibetan Buddhism · Human-Machine Synergy · Teaching Tech with Com
 
 ---
 
-## 📫 Connect With Me
-
-You can message me right here on GitHub.  
+## Connect With Me
+Email - neejusingh977@gmail.com
+You can also message me right here on GitHub.  
 Or explore more at [neejusingh.github.io](https://neejusingh.github.io)
 
 ---
