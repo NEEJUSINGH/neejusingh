@@ -15,7 +15,7 @@
 
 ---
 ### **[My Portfolio](https://neejusingh.github.io/portfolio.html)** 
-*A showcase of my projects, from AI tools to educational apps.*
+#### *A showcase of my projects, from AI tools to educational apps.*
 
 **Current Projects**  
 - AI-Powered Student Success Predictor  
