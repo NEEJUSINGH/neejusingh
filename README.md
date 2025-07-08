@@ -1,7 +1,12 @@
 <p align="center">
   <img src="https://github.com/NEEJUSINGH/neejusingh/blob/96b8a62bb96e5715dd0faac635c204689e0c32b6/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
+### **[My Portfolio](https://neejusingh.github.io/portfolio.html)** : *A detailed showcase of my projects, from AI tools to educational apps.*
 
+**Tools I Use**  
+Python · Streamlit · Java · React Native · Firebase · Tableau · Power BI · Jekyll · Git · Linux
+
+---
 ### **Checkout My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)**
 <p><em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em></p>
 
@@ -16,12 +21,7 @@
 - Vipassana and Buddhism
 
 ---
-### **[My Portfolio](https://neejusingh.github.io/portfolio.html)** : *A detailed showcase of my projects, from AI tools to educational apps.*
 
-**Tools I Use**  
-Python · Streamlit · Java · React Native · Firebase · Tableau · Power BI · Jekyll · Git · Linux
-
----
 
 ### Connect With Me
 
