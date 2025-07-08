@@ -27,7 +27,6 @@ Python · Streamlit · Java · React Native · Firebase · Tableau · Power BI �
 
 **Email**: neejusingh977@gmail.com
 **Website**: [neejusingh.github.io](https://neejusingh.github.io)
-
 ---
 
 <blockquote>
