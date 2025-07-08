@@ -14,7 +14,7 @@
 - Training the mind through ancient spiritual practices
 
 ---
-### **[My Portfolio](https://neejusingh.github.io/portfolio.html)** #### *A showcase of my projects, from AI tools to educational apps.*
+### **[My Portfolio](https://neejusingh.github.io/portfolio.html)** : *A showcase of my projects, from AI tools to educational apps.*
 
 **Current Projects**  
 - AI-Powered Student Success Predictor  
