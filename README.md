@@ -10,29 +10,22 @@
 ### My Current Interests
 
 - Artificial Intelligence and Machine Learning  
-- Technology tools that bridge AI and human presence  
+- Technology tools that bridge AI and human presence
+- Teaching Game Development to High School Students
 - Training the mind through ancient spiritual practices
+- Vipassana and Buddhism
 
 ---
-### **[My Portfolio](https://neejusingh.github.io/portfolio.html)** : *A showcase of my projects, from AI tools to educational apps.*
-
-**Current Projects**  
-- AI-Powered Student Success Predictor  
-- Study+ Android App — helping students focus with smart phone locking  
-- Interactive Learning Modules — for coding, game development, and more  
+### **[My Portfolio](https://neejusingh.github.io/portfolio.html)** : *A detailed showcase of my projects, from AI tools to educational apps.*
 
 **Tools I Use**  
 Python · Streamlit · Java · React Native · Firebase · Tableau · Power BI · Jekyll · Git · Linux
-
-**Interests**  
-Vipassana · Tibetan Buddhism · Human-Machine Synergy · Teaching Tech with Compassion
 
 ---
 
 ### Connect With Me
 
-**Email**: neejusingh977@gmail.com  
-**GitHub**: You can message me right here.  
+**Email**: neejusingh977@gmail.com
 **Website**: [neejusingh.github.io](https://neejusingh.github.io)
 
 ---
