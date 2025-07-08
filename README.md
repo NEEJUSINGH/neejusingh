@@ -4,9 +4,6 @@
 
 ### **[My Portfolio](https://neejusingh.github.io/portfolio.html)** : *A detailed showcase of my projects, from AI tools to educational apps.*
 
-**Tools I Use**  
-Python · Streamlit · Java · React Native · Firebase · Tableau · Power BI · Jekyll · Git · Linux
-
 ---
 ### **Checkout My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)**
 <p><em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em></p>
