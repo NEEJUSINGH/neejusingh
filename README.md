@@ -4,7 +4,7 @@
 
 ### **Checkout My [Portfolio](https://neejusingh.github.io/portfolio.html)**
 ---
-### **Checkout My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)**
+### **My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)**
 <p><em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em></p>
 
 ---
