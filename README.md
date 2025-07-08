@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/NEEJUSINGH/neejusingh/blob/96b8a62bb96e5715dd0faac635c204689e0c32b6/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
+
 ### **[My Portfolio](https://neejusingh.github.io/portfolio.html)** : *A detailed showcase of my projects, from AI tools to educational apps.*
 
 **Tools I Use**  
