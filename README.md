@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://github.com/NEEJUSINGH/neejusingh/blob/96b8a62bb96e5715dd0faac635c204689e0c32b6/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <!-- Add more badges similarly -->
+</p>
 
 ### **Checkout My [Portfolio](https://neejusingh.github.io/portfolio.html)**
 ---
