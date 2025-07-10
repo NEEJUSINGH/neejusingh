@@ -10,6 +10,22 @@
 </p>
 
 ### **Checkout My [Portfolio](https://neejusingh.github.io/portfolio.html)**
+
+<p align="center">
+  <a href="https://neejusingh.github.io/portfolio.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Click_Here-9cf?style=for-the-badge"/>
+  </a>
+  <a href="https://neejusingh.github.io/blog/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Unfolding_Consciousness-blueviolet?style=for-the-badge"/>
+  </a>
+  <a href="mailto:neejusingh977@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-green?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/neejusingh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 ---
 ### **My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)**
 <p><em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em></p>
