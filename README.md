@@ -19,6 +19,7 @@
 ### 🚀 About Me
 
 Hi, I am **Neeju Singh** — a recent Computer Science graduate passionate about **AI, educational technology, game development**, and **consciousness**. I love building tools that merge tech and human insight.
+### **Checkout My [Portfolio](https://neejusingh.github.io/portfolio.html)**
 
 ---
 ### My Current Interests
@@ -72,7 +73,6 @@ Beginner-friendly coding modules for high school students, including game develo
 
 ---
 
-### 🌐 Connect With Me
 
 - 📧 Email: [neejusingh977@gmail.com](mailto:neejusingh977@gmail.com)  
 - 🌍 Website: [neejusingh.github.io](https://neejusingh.github.io)  
@@ -84,6 +84,7 @@ Beginner-friendly coding modules for high school students, including game develo
   <em>“The mind is everything. What you think, you become.”</em><br> — Buddha
 </blockquote>
 
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://neejusingh.github.io/portfolio.html" target="_blank">
@@ -101,7 +102,7 @@ Beginner-friendly coding modules for high school students, including game develo
 </p>
 
 
-### **Checkout My [Portfolio](https://neejusingh.github.io/portfolio.html)**
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://neejusingh.github.io/portfolio.html" target="_blank">
@@ -124,16 +125,6 @@ Beginner-friendly coding modules for high school students, including game develo
 
 ---
 
-
-
-
-### Connect With Me
-
-**Email**: neejusingh977@gmail.com
-
-**Website**: [neejusingh.github.io](https://neejusingh.github.io)
-
----
 
 <blockquote>
   <p><em>“The mind is everything. What you think, you become.”</em><br>
