@@ -23,28 +23,6 @@ Hi, I am Neeju Singh — a recent Computer Science graduate passionate about AI,
 
 ---
 
-<h3 align="center">
-  🧠 <a href="https://neejusingh.github.io/blog/" target="_blank"><strong>Unfolding Consciousness</strong></a>
-</h3>
-<p align="center">
-  <em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em>
-</p>
-<p align="center">
-  <a href="https://neejusingh.github.io/blog/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Blog-Click_Here-blueviolet?style=for-the-badge"/>
-  </a>
-</p>
-
----
-### My Current Interests
-
-- Artificial Intelligence and Machine Learning  
-- Technology tools that bridge AI and human presence
-- Teaching Game Development to High School Students
-- Training the mind through ancient spiritual practices
-- Vipassana and Buddhism
-
----
 ### 📌 Featured Projects
 
 <details>
@@ -71,10 +49,29 @@ Beginner-friendly coding modules for high school students, including game develo
 👉 [See Full Portfolio ➜](https://neejusingh.github.io/portfolio.html)
 
 ---
+### My Current Interests
 
-### 📖 Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)
+- Artificial Intelligence and Machine Learning  
+- Technology tools that bridge AI and human presence
+- Teaching Game Development to High School Students
+- Training the mind through ancient spiritual practices
+- Vipassana and Buddhism
 
-<em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em>
+---
+
+<h3 align="center">
+  🧠 <a href="https://neejusingh.github.io/blog/" target="_blank"><strong>Unfolding Consciousness</strong></a>
+</h3>
+<p align="center">
+  <em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em>
+</p>
+<p align="center">
+  <a href="https://neejusingh.github.io/blog/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Blog-Click_Here-blueviolet?style=for-the-badge"/>
+  </a>
+</p>
+
+---
 
 ---
 
