@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -21,21 +21,15 @@
 Hi, I am **Neeju Singh** — a recent Computer Science graduate passionate about **AI, educational technology, game development**, and **consciousness**. I love building tools that merge tech and human insight.
 
 ---
+### My Current Interests
 
-### 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+- Artificial Intelligence and Machine Learning  
+- Technology tools that bridge AI and human presence
+- Teaching Game Development to High School Students
+- Training the mind through ancient spiritual practices
+- Vipassana and Buddhism
 
 ---
-
 ### 📌 Featured Projects
 
 <details>
@@ -93,21 +87,6 @@ Beginner-friendly coding modules for high school students, including game develo
 
 
 
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <!-- Add more badges similarly -->
-</p>
-
 ### **Checkout My [Portfolio](https://neejusingh.github.io/portfolio.html)**
 
 <p align="center">
@@ -131,15 +110,7 @@ Beginner-friendly coding modules for high school students, including game develo
 
 ---
 
-### My Current Interests
 
-- Artificial Intelligence and Machine Learning  
-- Technology tools that bridge AI and human presence
-- Teaching Game Development to High School Students
-- Training the mind through ancient spiritual practices
-- Vipassana and Buddhism
-
----
 
 
 ### Connect With Me
