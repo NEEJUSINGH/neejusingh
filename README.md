@@ -85,6 +85,20 @@ Beginner-friendly coding modules for high school students, including game develo
 </blockquote>
 
 
+<p align="center">
+  <a href="https://neejusingh.github.io/portfolio.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Click_Here-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://neejusingh.github.io/blog/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Unfolding_Consciousness-blueviolet?style=for-the-badge"/>
+  </a>
+  <a href="mailto:neejusingh977@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-success?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/neejusingh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
 ### **Checkout My [Portfolio](https://neejusingh.github.io/portfolio.html)**
