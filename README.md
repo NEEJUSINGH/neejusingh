@@ -20,6 +20,7 @@
 Hi, I am Neeju Singh — a recent Computer Science graduate passionate about AI, educational technology, game development, and consciousness. I love building tools that merge tech with human insight.
 
 <p align="center"> <a href="https://neejusingh.github.io/portfolio.html" target="_blank"> <img src="https://img.shields.io/badge/📁 Portfolio-View_My_Work-9cf?style=for-the-badge"/> </a> </p>
+
 ---
 
 <h3 align="center">
