@@ -48,7 +48,8 @@ Beginner-friendly coding modules for high school students, including game develo
 👉 [See Full Portfolio ➜](https://neejusingh.github.io/portfolio.html)
 
 ---
-My Current Interests
+
+### My Current Interests
 
 Artificial Intelligence and Machine Learning
 
@@ -62,11 +63,10 @@ Meditation, Buddhism & Ancient Mental Training
 
 <br> <h3 align="center"> Check out my personal blog: <a href="https://neejusingh.github.io/blog/" target="_blank"><strong>Unfolding Consciousness</strong></a> </h3> <p align="center"> <em>An introspective space exploring mind, awareness, and a bit of everything.</em> </p> <p align="center"> <a href="https://neejusingh.github.io/blog/" target="_blank"> <img src="https://img.shields.io/badge/Visit_Blog-Click_Here-blueviolet?style=for-the-badge"/> </a> </p>
 
-<p align="center">
-  
+---  
+
 ### 🌐 Connect With Me
 
-</p>
   <a href="mailto:neejusingh977@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📩 Email-Contact_Me-success?style=for-the-badge"/>
   </a><br><br>
@@ -75,8 +75,6 @@ Meditation, Buddhism & Ancient Mental Training
     <img src="https://img.shields.io/badge/🔗 LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
 
 ---
 
