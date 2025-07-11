@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://github.com/NEEJUSINGH/neejusingh/blob/main/banner.png" alt="Neeju Singh Banner" width="100%">
 </p>
-
+<p align="center">
+  <img src="intro.gif" alt="Welcome GIF">
+</p>
 ---
 
 ### 🚀 About Me
