@@ -73,18 +73,6 @@ Beginner-friendly coding modules for high school students, including game develo
 
 ---
 
-
-- 📧 Email: [neejusingh977@gmail.com](mailto:neejusingh977@gmail.com)  
-- 🌍 Website: [neejusingh.github.io](https://neejusingh.github.io)  
-- 💼 LinkedIn: *(optional if you want to include it as a button too)*
-
----
-
-<blockquote>
-  <em>“The mind is everything. What you think, you become.”</em><br> — Buddha
-</blockquote>
-
-
 <p align="center">
   
 ### 🌐 Connect With Me
