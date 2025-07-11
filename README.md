@@ -14,6 +14,12 @@
 Hi, I am **Neeju Singh** — a recent Computer Science graduate passionate about **AI, educational technology, game development**, and **consciousness**. I love building tools that merge tech and human insight.
 
 ---
+<table>
+  <tr>
+    <td><img src="https://github.com/NEEJUSINGH/neejusingh/blob/main/banner.png?raw=true" width="100%"></td>
+    <td><img src="https://github.com/NEEJUSINGH/neejusingh/blob/main/intro.gif?raw=true" width="100%"></td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & Technologies
 
