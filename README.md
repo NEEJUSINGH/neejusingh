@@ -51,15 +51,13 @@ Beginner-friendly coding modules for high school students, including game develo
 
 ### My Current Interests
 
-Artificial Intelligence and Machine Learning
+- Artificial Intelligence and Machine Learning
 
-Technology tools that bridge AI and human presence
+- Technology tools that bridge AI and human presence
 
-Teaching Game Development to High School Students
+- Teaching Game Development to High School Students
 
-Training the mind through ancient spiritual practices
-
-Meditation, Buddhism & Ancient Mental Training
+- Meditation, Buddhism & Ancient Spiritual Mind Training
 
 <br> <h3 align="center"> Check out my personal blog: <a href="https://neejusingh.github.io/blog/" target="_blank"><strong>Unfolding Consciousness</strong></a> </h3> <p align="center"> <em>An introspective space exploring mind, awareness, and a bit of everything.</em> </p> <p align="center"> <a href="https://neejusingh.github.io/blog/" target="_blank"> <img src="https://img.shields.io/badge/Visit_Blog-Click_Here-blueviolet?style=for-the-badge"/> </a> </p>
 
