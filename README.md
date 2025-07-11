@@ -27,7 +27,7 @@ Hi, my name is Neeju Singh. I am a recent Computer Science graduate passionate a
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Featured_Projects-orange?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Featured_Projects-orange?style=for-the-badge&logo=github&logoColor=white"/><a href="https://neejusingh.github.io/portfolio.html" target="_blank"></a>
 </p>
 
 <details>
@@ -51,8 +51,8 @@ Beginner-friendly coding modules for high school students, including game develo
 🔗 [View Project](https://github.com/NEEJUSINGH/space-invader-module) · 🕹️ Pygame, GitHub Pages
 </details>
 
-<p align = "center"> 
-  <a href="https://neejusingh.github.io/portfolio.html" target="_blank"><img src="https://img.shields.io/badge/📁 See_Full_Portfolio-FACC15?style=for-the-badge&logoColor=black"/></a>
+<p> 
+  <a href="https://neejusingh.github.io/portfolio.html" target="_blank"><img src="https://img.shields.io/badge/ 📁 Checkout_ My_Portfolio 📁 -c9ff28?style=for-the-badge&logoColor=black"/></a>
 </p>
 
 ---
@@ -69,7 +69,13 @@ Beginner-friendly coding modules for high school students, including game develo
 
 - Meditation, Buddhism & Ancient Mind Training Techniques
 
-<br> <h3 align="center"> Check out my personal blog: <a href="https://neejusingh.github.io/blog/" target="_blank"><strong>Unfolding Consciousness</strong></a> </h3> <p align="center"> <em>An introspective space exploring mind, awareness, and a bit of everything.</em> </p> <p align="center"> <a href="https://neejusingh.github.io/blog/" target="_blank"> <img src="https://img.shields.io/badge/Visit_Blog-Click_Here-blueviolet?style=for-the-badge"/> </a> </p>
+<h3 align="center">Check out my personal blog</h3>
+
+<p align="center">
+  <a href="https://neejusingh.github.io/blog/" target="_blank">
+    <img src="https://img.shields.io/badge/Unfolding_Consciousness-FF69B4?style=for-the-badge" alt="Visit Blog">
+<p align="center"><em>An introspective space exploring mind, awareness, and a bit of everything.</em></p>
+</p>
 
 ---  
 
