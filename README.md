@@ -51,7 +51,7 @@ Beginner-friendly coding modules for high school students, including game develo
 🔗 [View Project](https://github.com/NEEJUSINGH/space-invader-module) · 🕹️ Pygame, GitHub Pages
 </details>
 
-<p> 
+<p align = "center"> 
   <a href="https://neejusingh.github.io/portfolio.html" target="_blank"><img src="https://img.shields.io/badge/📁 See_Full_Portfolio-FACC15?style=for-the-badge&logoColor=black"/></a>
 </p>
 
