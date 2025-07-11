@@ -21,6 +21,18 @@
 Hi, I am **Neeju Singh** — a recent Computer Science graduate passionate about **AI, educational technology, game development**, and **consciousness**. I love building tools that merge tech and human insight.
 ### **Checkout My [Portfolio](https://neejusingh.github.io/portfolio.html)**
 
+<h3 align="center">
+  🧠 <a href="https://neejusingh.github.io/blog/" target="_blank"><strong>Unfolding Consciousness</strong></a>
+</h3>
+<p align="center">
+  <em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em>
+</p>
+<p align="center">
+  <a href="https://neejusingh.github.io/blog/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Blog-Click_Here-blueviolet?style=for-the-badge"/>
+  </a>
+</p>
+
 ---
 ### My Current Interests
 
@@ -83,9 +95,7 @@ Beginner-friendly coding modules for high school students, including game develo
     <img src="https://img.shields.io/badge/🗂️ Portfolio-Click_Here-blue?style=for-the-badge"/>
   </a><br><br>
   
-  <a href="https://neejusingh.github.io/blog/" target="_blank">
-    <img src="https://img.shields.io/badge/🧠 Blog-Unfolding_Consciousness-blueviolet?style=for-the-badge"/>
-  </a><br><br>
+  
   
   <a href="mailto:neejusingh977@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📩 Email-Contact_Me-success?style=for-the-badge"/>
@@ -99,8 +109,6 @@ Beginner-friendly coding modules for high school students, including game develo
 
 
 ---
-### **My Personal Blog: [Unfolding Consciousness](https://neejusingh.github.io/blog/)**
-<p><em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em></p>
 
 ---
 
