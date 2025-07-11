@@ -1,11 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/NEEJUSINGH/neejusingh/blob/96b8a62bb96e5715dd0faac635c204689e0c32b6/banner.png" alt="Neeju Singh Banner" width="100%">
-</p>
-<p align="center">
-  <img src="https://github.com/NEEJUSINGH/neejusingh/blob/main/banner.png" alt="Neeju Singh Banner" width="100%">
-</p>
-<p align="center">
-  <img src="intro.gif" alt="Welcome GIF">
+  <img src="final.gif" alt="Welcome GIF">
 </p>
 ---
 
@@ -14,12 +9,6 @@
 Hi, I am **Neeju Singh** — a recent Computer Science graduate passionate about **AI, educational technology, game development**, and **consciousness**. I love building tools that merge tech and human insight.
 
 ---
-<table>
-  <tr>
-    <td><img src="https://github.com/NEEJUSINGH/neejusingh/blob/main/banner.png?raw=true" width="100%"></td>
-    <td><img src="https://github.com/NEEJUSINGH/neejusingh/blob/main/intro.gif?raw=true" width="100%"></td>
-  </tr>
-</table>
 
 ### 🛠️ Tools & Technologies
 
