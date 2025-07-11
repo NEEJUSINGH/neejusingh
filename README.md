@@ -74,13 +74,13 @@
 
 
 ---  
-
-### 🌐 Connect With Me
-
+<h3 align="center">🌐 Connect With Me</h3>
+<p align="center">
   <a href="mailto:neejusingh977@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📩 Email-Contact_Me-success?style=for-the-badge"/>
-  </a><br><br>
-  
+  </a>
+  </p>
+<p align="center">
   <a href="https://www.linkedin.com/in/neejusingh/" target="_blank">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
