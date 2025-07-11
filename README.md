@@ -18,14 +18,14 @@
 
 ---
 
-### About Me
+### 👩‍🎓 About Me
  
 <em>Hi, my name is Neeju Singh. I am a recent Computer Science graduate passionate about AI and Machine Learning, educational technology, game development, and neuroscience. I am especially interested in building tools designed for humans and AI to collaborate — optimizing solutions and unlocking new ways to solve complex problems together.</em>
 
 
 ---
 
-### Featured Projects
+### 🗂️ Featured Projects
 
 <details>
 <summary><b><em>AI-Powered Student Success Predictor</em></b></summary>
@@ -54,7 +54,7 @@
 
 ---
 
-### Current Interests
+### 🌎 Current Interests
 
 - <em>Artificial Intelligence and Machine Learning</em>
 
@@ -64,7 +64,7 @@
 
 - <em>Meditation, Buddhism & Ancient Mind Training Techniques</em>
 
-<h3 align="center">Check out my personal blog</h3>
+<h3 align="center">🪷 Check out my personal blog</h3>
 <p align="center">
   <a href="https://neejusingh.github.io/blog/" target="_blank">
     <img src="https://img.shields.io/badge/Unfolding_Consciousness-FF69B4?style=for-the-badge" alt="Visit Blog">
@@ -87,8 +87,6 @@
 </p>
 
 ---
-
-<blockquote>
-  <p><em>“The mind is everything. What you think, you become.”</em><br>
-  — Buddha</p>
+<blockquote><em>“The mind is everything. What you think, you become.”</em><br>
+  — Buddha
 </blockquote>
