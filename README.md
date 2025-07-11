@@ -17,36 +17,33 @@
 
 
 ---
-<p>
-  <img src="https://img.shields.io/badge/👤 About_Me-darkblue?style=for-the-badge&logo=persona&logoColor=white"/>
- </p>
+
+### About Me
  
-Hi, my name is Neeju Singh. I am a recent Computer Science graduate passionate about AI and Machine Learning, educational technology, game development, and neuroscience. I am especially interested in building tools designed for humans and AI to collaborate — optimizing solutions and unlocking new ways to solve complex problems together.
+<em>Hi, my name is Neeju Singh. I am a recent Computer Science graduate passionate about AI and Machine Learning, educational technology, game development, and neuroscience. I am especially interested in building tools designed for humans and AI to collaborate — optimizing solutions and unlocking new ways to solve complex problems together.</em>
 
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/Featured_Projects-orange?style=for-the-badge&logo=github&logoColor=white"/><a href="https://neejusingh.github.io/portfolio.html" target="_blank"></a>
-</p>
+### Featured Projects
 
 <details>
-<summary><b>AI-Powered Student Success Predictor</b></summary>
-A machine learning tool to predict student outcomes and support personalized learning.
+<summary><b><em>AI-Powered Student Success Predictor</em></b></summary>
+<em>A machine learning tool to predict student outcomes and support personalized learning.</em>
 <br><br>
 🔗 [GitHub Repository](https://github.com/NEEJUSINGH/student-success-predictor) · 📊 Python, Scikit-learn, Streamlit
 </details>
 
 <details>
-<summary><b>Study+ Android App</b></summary>
-An app that helps students stay focused by locking distractions and providing parental/teacher dashboards.
+<summary><b><em>Study+ Android App</em></b></summary>
+<em>An app that helps students stay focused by locking distractions and providing parental/teacher dashboards.</em>
 <br><br>
 🔗 [GitHub Repository](https://github.com/NEEJUSINGH/study-plus-app) · 🤖 Java, Firebase, Android Studio
 </details>
 
 <details>
-<summary><b>Interactive Learning Modules</b></summary>
-Beginner-friendly coding modules for high school students, including game development and web apps.
+<summary><b><em>Interactive Learning Modules</em></b></summary>
+<em>Beginner-friendly coding modules for high school students, including game development and web apps.</em>
 <br><br>
 🔗 [View Project](https://github.com/NEEJUSINGH/space-invader-module) · 🕹️ Pygame, GitHub Pages
 </details>
@@ -57,25 +54,24 @@ Beginner-friendly coding modules for high school students, including game develo
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/💡 Current_Interests-teal?style=for-the-badge&logo=book&logoColor=white"/>
-</p>
+### Current Interests
 
-- Artificial Intelligence and Machine Learning
+- <em>Artificial Intelligence and Machine Learning</em>
 
-- Technology tools that bridge AI and human presence
+- <em>Technology tools that bridge AI and human presence</em>
 
-- Teaching Game Development to High School Students
+- <em>Teaching Game Development to High School Students</em>
 
-- Meditation, Buddhism & Ancient Mind Training Techniques
+- <em>Meditation, Buddhism & Ancient Mind Training Techniques</em>
 
 <h3 align="center">Check out my personal blog</h3>
-
 <p align="center">
   <a href="https://neejusingh.github.io/blog/" target="_blank">
     <img src="https://img.shields.io/badge/Unfolding_Consciousness-FF69B4?style=for-the-badge" alt="Visit Blog">
-<p align="center"><em>An introspective space exploring mind, awareness, and a bit of everything.</em></p>
+  </a>
 </p>
+<p align="center"><em>An introspective space exploring mind, awareness, and a bit of everything.</em></p>
+
 
 ---  
 
