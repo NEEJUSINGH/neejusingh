@@ -84,8 +84,12 @@ Beginner-friendly coding modules for high school students, including game develo
   <em>“The mind is everything. What you think, you become.”</em><br> — Buddha
 </blockquote>
 
-                                        ### 🌐 Connect With Me
 
+<p align="center">
+  
+### 🌐 Connect With Me
+
+</p>
 <p align="center">
   <a href="https://neejusingh.github.io/portfolio.html" target="_blank">
     <img src="https://img.shields.io/badge/🗂️ Portfolio-Click_Here-blue?style=for-the-badge"/>
