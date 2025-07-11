@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/> 
 </p>
 
 <p align="center"> 
@@ -17,14 +17,18 @@
 
 
 ---
-
+<p>
+  <img src="https://img.shields.io/badge/👤 About_Me-darkblue?style=for-the-badge&logo=persona&logoColor=white"/>
+ </p>
+ 
 Hi, my name is Neeju Singh. I am a recent Computer Science graduate passionate about AI and Machine Learning, educational technology, game development, and neuroscience. I am especially interested in building tools designed for humans and AI to collaborate — optimizing solutions and unlocking new ways to solve complex problems together.
 
-<p align="center"> <a href="https://neejusingh.github.io/portfolio.html" target="_blank"> <img src="https://img.shields.io/badge/📁 Portfolio-View_My_Work-9cf?style=for-the-badge"/> </a> </p>
 
 ---
 
-### Featured Projects
+<p>
+  <img src="https://img.shields.io/badge/Featured_Projects-orange?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 <details>
 <summary><b>AI-Powered Student Success Predictor</b></summary>
@@ -47,11 +51,15 @@ Beginner-friendly coding modules for high school students, including game develo
 🔗 [View Project](https://github.com/NEEJUSINGH/space-invader-module) · 🕹️ Pygame, GitHub Pages
 </details>
 
-👉 [See Full Portfolio ➜](https://neejusingh.github.io/portfolio.html)
+<p> 
+  <a href="https://neejusingh.github.io/portfolio.html" target="_blank"><img src="https://img.shields.io/badge/📁 See_Full_Portfolio-FACC15?style=for-the-badge&logoColor=black"/></a>
+</p>
 
 ---
 
-### My Current Interests
+<p>
+  <img src="https://img.shields.io/badge/💡 Current_Interests-teal?style=for-the-badge&logo=book&logoColor=white"/>
+</p>
 
 - Artificial Intelligence and Machine Learning
 
@@ -59,7 +67,7 @@ Beginner-friendly coding modules for high school students, including game develo
 
 - Teaching Game Development to High School Students
 
-- Meditation, Buddhism & Ancient Spiritual Mind Training
+- Meditation, Buddhism & Ancient Mind Training Techniques
 
 <br> <h3 align="center"> Check out my personal blog: <a href="https://neejusingh.github.io/blog/" target="_blank"><strong>Unfolding Consciousness</strong></a> </h3> <p align="center"> <em>An introspective space exploring mind, awareness, and a bit of everything.</em> </p> <p align="center"> <a href="https://neejusingh.github.io/blog/" target="_blank"> <img src="https://img.shields.io/badge/Visit_Blog-Click_Here-blueviolet?style=for-the-badge"/> </a> </p>
 
