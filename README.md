@@ -16,31 +16,30 @@
 
 ---
 
-🚀 About Me
-Hi, I am Neeju Singh — a recent Computer Science graduate passionate about AI, educational technology, game development, and consciousness. I love building tools that merge tech with human insight.
+Hi, my name is Neeju Singh. I am a recent Computer Science graduate passionate about AI and Machine Learning, educational technology, game development, and neuroscience. I am especially interested in building tools designed for humans and AI to collaborate — optimizing solutions and unlocking new ways to solve complex problems together.
 
 <p align="center"> <a href="https://neejusingh.github.io/portfolio.html" target="_blank"> <img src="https://img.shields.io/badge/📁 Portfolio-View_My_Work-9cf?style=for-the-badge"/> </a> </p>
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <details>
-<summary><b>🧠 AI-Powered Student Success Predictor</b></summary>
+<summary><b>AI-Powered Student Success Predictor</b></summary>
 A machine learning tool to predict student outcomes and support personalized learning.
 <br><br>
 🔗 [GitHub Repository](https://github.com/NEEJUSINGH/student-success-predictor) · 📊 Python, Scikit-learn, Streamlit
 </details>
 
 <details>
-<summary><b>📱 Study+ Android App</b></summary>
+<summary><b>Study+ Android App</b></summary>
 An app that helps students stay focused by locking distractions and providing parental/teacher dashboards.
 <br><br>
 🔗 [GitHub Repository](https://github.com/NEEJUSINGH/study-plus-app) · 🤖 Java, Firebase, Android Studio
 </details>
 
 <details>
-<summary><b>🎮 Interactive Learning Modules</b></summary>
+<summary><b>Interactive Learning Modules</b></summary>
 Beginner-friendly coding modules for high school students, including game development and web apps.
 <br><br>
 🔗 [View Project](https://github.com/NEEJUSINGH/space-invader-module) · 🕹️ Pygame, GitHub Pages
@@ -55,32 +54,21 @@ Beginner-friendly coding modules for high school students, including game develo
 - Technology tools that bridge AI and human presence
 - Teaching Game Development to High School Students
 - Training the mind through ancient spiritual practices
-- Vipassana and Buddhism
+- Meditation, Buddhism & Ancient Mental Training
 
 ---
 
 <h3 align="center">
-  🧠 <a href="https://neejusingh.github.io/blog/" target="_blank"><strong>Unfolding Consciousness</strong></a>
+   <a href="https://neejusingh.github.io/blog/" target="_blank"><strong>Unfolding Consciousness</strong></a>
 </h3>
 <p align="center">
-  <em>An introspective space exploring mind, awareness, manifestation, and the deeper dimensions of being.</em>
+  <em>An introspective space exploring mind, awareness, and a bit of everything.</em>
 </p>
 <p align="center">
   <a href="https://neejusingh.github.io/blog/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_Blog-Click_Here-blueviolet?style=for-the-badge"/>
   </a>
 </p>
-
----
-
----
-
-### 💡 Interests
-
-- Artificial Intelligence and Human-Machine Synergy  
-- Teaching Tech with Compassion  
-- Game Development for Beginners  
-- Vipassana, Buddhism & Ancient Mental Training
 
 ---
 
