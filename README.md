@@ -20,7 +20,7 @@
 
 ### 👩‍🎓 About Me
  
-<em>Hi, my name is Neeju Singh. I am a recent Computer Science graduate passionate about AI and Machine Learning, educational technology, game development, and neuroscience. I am especially interested in building tools designed for humans and AI to collaborate — optimizing solutions and unlocking new ways to solve complex problems together.</em>
+<em>Hi, my name is Neeju Singh. With background in computer science, I am passionate about AI and Machine Learning, educational technology, game development, and neuroscience. I am especially interested in building tools designed for humans and AI to collaborate — optimizing solutions and unlocking new ways to solve complex problems together.</em>
 
 
 ---
